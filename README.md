@@ -1,5 +1,7 @@
 # Mobile OS Share (2009-2022)
 
+## Information
+
 * Creator: Jaehyun Song
 * Last updated: 2022/11/08
 * Source: <https://gs.statcounter.com>
@@ -54,3 +56,7 @@ os_df %>%
 ```
 
 ![](sample/SamplePlot2.png)
+
+## Further Update
+
+* 国別の変数を追加（大陸、人口、面積、政治経済指標等）
