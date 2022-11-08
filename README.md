@@ -1,4 +1,4 @@
-# Mobile OS Share (2009-2022)
+# Mobile OS Share (worldwide; 2009-2022)
 
 ## Information
 
