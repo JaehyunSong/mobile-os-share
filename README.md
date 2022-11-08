@@ -4,6 +4,7 @@
 
 * Creator: Jaehyun Song
 * Last updated: 2022/11/08
+* 249 regions * 14 years (2009-2022)
 * Source: <https://gs.statcounter.com>
 
 ## Sample
