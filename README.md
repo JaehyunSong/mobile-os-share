@@ -5,4 +5,6 @@
 
 ## Sample
 
-![](Sample/SamplePlot1.png)
+![](sample/SamplePlot1.png)
+
+![](sample/SamplePlot2.png)
