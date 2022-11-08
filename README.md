@@ -1,5 +1,6 @@
 # Mobile OS Share (2009-2022)
 
+* Creator: Jaehyun Song
 * Last updated: 2022/11/08
 * Source: <https://gs.statcounter.com>
 
