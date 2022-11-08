@@ -24,8 +24,7 @@ os_df %>%
   geom_line(aes(color = OS), size = 1) +
   geom_point(aes(fill = OS), shape = 21, size = 3, color = "white") +
   guides(fill = "none") +
-  labs(x = "Year", y = "Share (%)", color = "",
-       title = "Japan") +
+  labs(x = "Year", y = "Share (%)", color = "", title = "Japan") +
   scale_x_continuous(breaks = 2009:2022, labels = 2009:2022) +
   theme_bw(base_size = 12) +
   theme(legend.position    = "bottom",
@@ -47,8 +46,7 @@ os_df %>%
   geom_line(aes(color = OS), size = 1) +
   geom_point(aes(fill = OS), shape = 21, size = 3, color = "white") +
   guides(fill = "none") +
-  labs(x = "Year", y = "Share (%)", color = "",
-       title = "South Korea") +
+  labs(x = "Year", y = "Share (%)", color = "", title = "South Korea") +
   scale_x_continuous(breaks = 2009:2022, labels = 2009:2022) +
   theme_bw(base_size = 12) +
   theme(legend.position    = "bottom",
